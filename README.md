@@ -103,6 +103,9 @@ __disable_irq(); while (1) { }
 
 
 ## Output  :
+
+![exp2 pm](https://user-images.githubusercontent.com/123469171/228023694-2158787f-b9bc-4faf-bc35-c3db5d78875b.jpg)
+
  
  
  
